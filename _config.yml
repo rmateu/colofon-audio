@@ -14,7 +14,7 @@ rss:              RSS
 
 # markdown render engine.
 markdown:         kramdown
-# kramdown:
+kramdown:
 auto_ids:               true
 input:                  GFM
 # math_engine:            mathjax
