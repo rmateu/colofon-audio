@@ -1,3 +1,7 @@
+--- 
+layout: home
+---
+
 Un podcast de entrevistas a personas creadoras y las herramientas que usan para ser productivas.
 
 ## Primera Temporada
