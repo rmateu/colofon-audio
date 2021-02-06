@@ -1,6 +1,5 @@
 --- 
 layout: home
-permalink: /
 ---
 
 Un podcast de entrevistas a personas creadoras y las herramientas que usan para ser productivas.
