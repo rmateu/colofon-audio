@@ -13,10 +13,10 @@ baseurl:          '/'
 rss:              RSS
 
 # markdown render engine.
-markdown:         GFM
+markdown:         kramdown
 # kramdown:
-# auto_ids:               true
-# input:                  GFM
+auto_ids:               true
+input:                  GFM
 # math_engine:            mathjax
 # smart_quotes:           lsquo,rsquo,ldquo,rdquo
 # toc_levels:             1..6  
