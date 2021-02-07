@@ -46,3 +46,5 @@ regenerate:       true
 plugins:
   # - jemoji
   - jekyll-feed
+
+theme: jekyll-theme-minimal
